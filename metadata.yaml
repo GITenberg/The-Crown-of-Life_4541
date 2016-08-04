@@ -1,0 +1,31 @@
+_repo: The-Crown-of-Life_4541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: Critics regard George Gissing as one of the most important writers of
+  the Victorian era. Over the course of his career, he emerged as one of the most
+  significant innovators in the literary genre of realism. In The Crown of Life, one
+  of his later works, Gissing explores human relationships, and in particular, marriage,
+  with the keen eye for detail and piercing insight that are his hallmarks.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Crown of Life
+url: http://www.gutenberg.org/ebooks/4541
