@@ -1,5 +1,8 @@
 _repo: The-Crown-of-Life_4541
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -14,6 +17,8 @@ description: Critics regard George Gissing as one of the most important writers 
   significant innovators in the literary genre of realism. In The Crown of Life, one
   of his later works, Gissing explores human relationships, and in particular, marriage,
   with the keen eye for detail and piercing insight that are his hallmarks.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4541#The-Crown-of-Life
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
